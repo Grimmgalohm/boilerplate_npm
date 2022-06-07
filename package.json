@@ -1,5 +1,6 @@
 {
 	"author": "César Luna",
+	"description": "A project that does something awesome for freecodecamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
